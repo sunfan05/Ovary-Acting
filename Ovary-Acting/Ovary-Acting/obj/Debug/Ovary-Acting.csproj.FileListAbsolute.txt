@@ -1,6 +1,0 @@
-/Users/hwangjimin/Desktop/Ovary-Acting/Ovary-Acting/bin/Debug/Ovary-Acting.exe
-/Users/hwangjimin/Desktop/Ovary-Acting/Ovary-Acting/bin/Debug/Ovary-Acting.pdb
-/Users/hwangjimin/Desktop/Ovary-Acting/Ovary-Acting/obj/Debug/Ovary-Acting.csproj.AssemblyReference.cache
-/Users/hwangjimin/Desktop/Ovary-Acting/Ovary-Acting/obj/Debug/Ovary-Acting.csproj.CoreCompileInputs.cache
-/Users/hwangjimin/Desktop/Ovary-Acting/Ovary-Acting/obj/Debug/Ovary-Acting.exe
-/Users/hwangjimin/Desktop/Ovary-Acting/Ovary-Acting/obj/Debug/Ovary-Acting.pdb
